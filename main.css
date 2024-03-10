@@ -5,3 +5,17 @@
 .corefeatureSection{
     background-size: 100% 100%;
 }
+.gradients{
+    background:  linear-gradient(180deg,#f4f8ff,#fff0);
+}
+.companyList{
+    animation: moveImage 15s infinite linear;
+}
+@keyframes moveImage{
+    0%{
+        top: 0;
+    }
+    100%{
+        top: -100%;
+    }
+}
