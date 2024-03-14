@@ -2,11 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.corefeatureSection{
-    background-size: 100% 100%;
-}
-.ctaSection{
-    background-size: 100% 100%;
+.ctaBg{
+    background-size: 200% 100%;
 }
 .gradients{
     background:  linear-gradient(180deg,#f4f8ff,#fff0);
