@@ -1517,7 +1517,7 @@ video {
 }
 
 .bg-\[url\(\/image\/CTABg\.svg\)\] {
-  background-image: url(./image/CTABg.svg);
+  background-image: url(image/CTABg.svg);
 }
 
 .bg-\[url\(image\/core-features-sectionBg\.svg\)\] {
